@@ -1,0 +1,42 @@
+img{
+width: 40vw;
+height: auto;
+transition:ease-in 1s;
+}
+
+img:hover {
+    width: 60vw;
+}
+
+main { 
+    display:flex;
+    width: 100vw;
+    height: auto;
+    align-items: center;
+    flex-direction: column;
+}
+
+p {
+    width: 45vw;
+}
+
+ul{
+    margin-left: -10vw;
+    list-style: circle;
+}
+
+.flex-container {
+    display: flex;
+    width: 8vw;
+    justify-content: space-between;
+    font-family: Helvetica;
+}
+
+ol{
+    width: 45vw;
+}
+
+#kaas{
+color:orange;
+}
+
