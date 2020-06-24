@@ -1,0 +1,59 @@
+img{
+    width: 10vw;
+    height: auto;
+    float: left;
+    }
+    
+body{
+display: flex;
+width: 100vw;
+} 
+header{
+text-align: center;
+}
+    
+    main { 
+        display:flex;
+        width: 100vw;
+        height: auto;
+        align-items: center;
+        flex-direction: column;
+    }
+    
+    p {
+        width: 40vw;
+        text-align: center;
+    }
+    
+    ul{
+        list-style: circle;
+        text-align:center;
+    }
+    
+    ol{
+        width: 45vw;
+        text-align: center;
+    }
+    
+    #headers{
+    color:black;
+    text-align: center;
+    }
+
+    .bovenaan{
+        width:30vw;
+        font-family: Helvetica; 
+        font-size: 16px;
+    }
+
+    .ontwerp{
+        width: 20vw;
+        float: left;
+        text-align:center;
+        
+    }
+    
+    h1{
+        font-family: Helvetica;
+        text-align: center;
+    }
